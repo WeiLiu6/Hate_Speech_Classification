@@ -11,3 +11,4 @@ And Character level CNN has the lowest score of the three: precision -- 93% , re
 It is also worth metioning that the training time for SVM is considerably longer than the other two, it took around 1.5 hours for SVM to go through the training set, while it took only minutes for the deep learning approaches.
 
 Here's a graph of the most used words in hate speeches and neutral comments:
+![alt text](https://github.com/WeiLiu6/Hate_Speech_Classification/blob/master/images/Word_Freq.jpg)
